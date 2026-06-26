@@ -450,15 +450,10 @@ Contributions are welcome — firmware, dashboard features, PCB revisions, docs,
 
 ---
 
-## 🙏 Acknowledgments
 
-VMflow began as a fork of **[nodestark/mdb-esp32-cashless](https://github.com/nodestark/mdb-esp32-cashless)**.
 
-Huge thanks to **[@nodestark](https://github.com/nodestark)** for the original open-source MDB cashless implementation for the ESP32 — the protocol foundation that everything here is built on. This project would not exist without that work. 🙌
 
----
 
-## 📄 License
 
 Licensed under the **MIT License** — see [LICENSE](LICENSE).
 
